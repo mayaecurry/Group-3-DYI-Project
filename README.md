@@ -1,2 +1,2 @@
 # Group-3-DYI-Project
-Modelling feedback between sensory experience and the motion generating the sensory input
+Modelling relation between whiskers movement and mouse motion based on sensory input
